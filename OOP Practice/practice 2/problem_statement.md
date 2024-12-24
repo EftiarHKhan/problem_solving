@@ -11,13 +11,13 @@
 ## Program Requirements:
 1. Read the data from the salary.csv file.
 2. Determine the employee(s) with the minimum and maximum salary.
-3. Display the results in the following format:
+   3. Display the results in the following format:
 
-   Max: Hasan   56000  
-   Min: Rafi    34000  
+            Max: Hasan   56000  
+            Min: Rafi    34000  
 
 ## SVG file contents
-Dolon	45000
-Rafi	34000
-Hasan	56000
-Salma	45000
+      Dolon	45000
+      Rafi	34000
+      Hasan	56000
+      Salma	45000
